@@ -15,4 +15,25 @@ sᴀᴛʜᴀɴɪᴄ ʙᴜɢ ʙᴏᴛ 🎈
 <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
 <br>
 
+
+
+
+
+1.       apt update
+2.       apt upgrade
+3.       pkg update && pkg upgrade
+4.       pkg install bash
+5.       pkg install libwebp
+6.       pkg install git
+7.       pkg install nodejs
+8.       pkg install ffmpeg
+9.       pkg install wget
+10.      pkg install imagemagick
+11.      pkg install yarn
+12.      termux-setup-storage
+13.      cd /storage/emulated/0/'SATHAN V5'
+14.      yarn install
+15.      npm start
+
+     
    [`ℹ️Contact Owner`](https://wa.me/919778158839)
