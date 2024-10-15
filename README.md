@@ -17,7 +17,7 @@ sᴀᴛʜᴀɴɪᴄ ʙᴜɢ ʙᴏᴛ 🎈
 SATHANIC V5 ZIP DIRECT DOWNLOAD 👇 
 
 <a href="https://www.mediafire.com/file/cr2srhw1rxpqnr0/SATHANIC_V5.zip/file/mediafire">
-<img src="https://img.shields.io/badge/mediafire SATHANIC V5%20-black"
+<img src="https://img.shields.io/badge/mediafire%20-black"
 atl="MEDIAFIRE SATHANIC V5" width="100"></a>
 </br>
 
