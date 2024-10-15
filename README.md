@@ -7,7 +7,7 @@ sᴀᴛʜᴀɴɪᴄ ʙᴜɢ ʙᴏᴛ 🎈
 <hr>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                                        font=Fira+Code&weight=700&size=20&pause=1000&color=5513F7&width=435&lines=SATHANIC+BUG+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?                                        font=Fira+Code&weight=700&size=20&pause=1000&color=5513F7&width=4              35&lines=SATHANIC+BUG+BOT" alt="Typing SVG" /></a>
 </p>
 
 <a href="https://github.com/sathanic-mods/SATHANIC-BUG-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Repo-black" alt="FORK SATHANIC BUG BOT REPO" width="100"></a>
