@@ -15,6 +15,9 @@ sᴀᴛʜᴀɴɪᴄ ʙᴜɢ ʙᴏᴛ 🎈
 <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
 <br>
 
+<a href="https://www.mediafire.com/file/cr2srhw1rxpqnr0/SATHANIC_V5.zip/file/mediafire">
+<img src="https://img.shields.io/badge/mediafire%20-blue"
+
 
 
 
